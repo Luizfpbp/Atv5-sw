@@ -1,9 +1,12 @@
 # Atv5-sw
-Uso de multiplas threads para calcular a soma de cada linha de uma matriz quadrada
+O código pede ao usuario o tamanho da matriz e seus valores,</br>
+depois disso, inicia quantidade de threads necessarias para fazer</br>
+a soma de todos os valores de cada linha e retorna a soma de todas</br>
+as linhas.
 
-## Istallation
+## Installation
 ```bash
-$ git clone 
+$ git clone https://github.com/Luizfpbp/Atv5-sw.git
 $ cd Atv5-sw
 ```
 
