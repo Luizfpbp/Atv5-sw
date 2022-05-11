@@ -6,7 +6,7 @@ as linhas.
 
 ## Installation
 ```bash
-$ git clone https://github.com/Luizfpbp/Atv5-sw.git
+$ git clone https://github.com/Luizfpbp/Atv5-sw-MultiplasThreads.git
 $ cd Atv5-sw-MultiplasThreads
 ```
 
